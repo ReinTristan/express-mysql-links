@@ -3,6 +3,7 @@
 ### Small app for add your favorite links and store them in a single place, based on [fazt's project.](https://github.com/fazt/nodejs-mysql-links/tree/version-2018)
 
 ### Made with:
+| | | | | |    
 | --- | --- | --- | --- | --- |
 | ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)|
 | ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
